@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1615215342 source:m:\codeblocks\snake-game-sfml-oop\snakegame\main.cpp
+	"Game.h"
+
+1615220238 source:m:\codeblocks\snake-game-sfml-oop\snakegame\src\window.cpp
+	"Window.h"
+
+1615216613 m:\codeblocks\snake-game-sfml-oop\snakegame\include\window.h
+	<SFML/Graphics.hpp>
+
+1615291233 source:m:\codeblocks\snake-game-sfml-oop\snakegame\src\game.cpp
+	"Game.h"
+	<iostream>
+
+1615216867 m:\codeblocks\snake-game-sfml-oop\snakegame\include\game.h
+	<SFML/Graphics.hpp>
+	"Window.h"
+	"Player.h"
+	"World.h"
+
+1615291132 m:\codeblocks\snake-game-sfml-oop\snakegame\include\player.h
+	<SFML/Graphics.hpp>
+
+1615291257 source:m:\codeblocks\snake-game-sfml-oop\snakegame\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1615296609 m:\codeblocks\snake-game-sfml-oop\snakegame\include\world.h
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Window.h"
+
+1615304512 source:m:\codeblocks\snake-game-sfml-oop\snakegame\src\world.cpp
+	"World.h"
+	<stdio.h>
+
+1615305195 source:m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\main.cpp
+	"Game.h"
+
+1615305195 m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\include\game.h
+	<SFML/Graphics.hpp>
+	"Window.h"
+	"Player.h"
+	"World.h"
+
+1615305195 m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\include\window.h
+	<SFML/Graphics.hpp>
+
+1615305195 m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\include\player.h
+	<SFML/Graphics.hpp>
+
+1615305195 m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\include\world.h
+	<SFML/Graphics.hpp>
+	"Player.h"
+	"Window.h"
+
+1615305195 source:m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\src\game.cpp
+	"Game.h"
+	<iostream>
+
+1615305195 source:m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1615305195 source:m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\src\window.cpp
+	"Window.h"
+
+1615305195 source:m:\snake-80f7e26f28086c44e34fa98a52504b07c0239489\snake-80f7e26f28086c44e34fa98a52504b07c0239489\src\world.cpp
+	"World.h"
+	<stdio.h>
+
+1615484945 source:m:\codeblocks\sfml\snake-game-sfml-oop\main.cpp
+	"Game.h"
+
+1615484068 m:\codeblocks\sfml\snake-game-sfml-oop\include\game.h
+	<SFML/Graphics.hpp>
+	"Window.h"
+	"Player.h"
+	"World.h"
+
+1615305195 m:\codeblocks\sfml\snake-game-sfml-oop\include\window.h
+	<SFML/Graphics.hpp>
+
+1615487262 m:\codeblocks\sfml\snake-game-sfml-oop\include\player.h
+	<SFML/Graphics.hpp>
+
+1615487239 m:\codeblocks\sfml\snake-game-sfml-oop\include\world.h
+	<SFML/Graphics.hpp>
+	"Window.h"
+	"Player.h"
+
+1615487052 source:m:\codeblocks\sfml\snake-game-sfml-oop\src\game.cpp
+	"Game.h"
+	<iostream>
+
+1615487276 source:m:\codeblocks\sfml\snake-game-sfml-oop\src\player.cpp
+	"Player.h"
+	<string>
+
+1615305195 source:m:\codeblocks\sfml\snake-game-sfml-oop\src\window.cpp
+	"Window.h"
+
+1615486566 source:m:\codeblocks\sfml\snake-game-sfml-oop\src\world.cpp
+	"World.h"
+	<stdio.h>
+
